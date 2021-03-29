@@ -15,7 +15,6 @@ public class Study {
 
 public static void main(String[] args) {
 
-      new Fruits();
       Fruits.printFruits(FruitsConstants.FRUITS_LEMON_04,FruitsConstants.FRUITS_COUNT_20);
       
      
